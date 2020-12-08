@@ -1,8 +1,8 @@
 ## Ben Zvan: High-performing Team Advocate - DevOps Practitioner
 Pronouns: he/him
 
-[![github profile badge](https://img.shields.io/github/followers/benzvan?label=GitHub&style=social)](https://github.com/benzvan)
-[![twitter profile badge](https://img.shields.io/twitter/follow/benzvan?label=Twitter&style=social)](https://twitter.com/benzvan)
+[![github profile badge](https://img.shields.io/github/followers/benzvan?label=GitHub&style=social)](https://github.com/benzvan) &nbsp;
+[![twitter profile badge](https://img.shields.io/twitter/follow/benzvan?label=Twitter&style=social)](https://twitter.com/benzvan) &nbsp;
 [![linkedin profile badge](https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin)](https://www.linkedin.com/in/benzvan)
 
 ### I Talk Sometimes
